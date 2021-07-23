@@ -2,8 +2,12 @@
 This is the npm package to find the nearest station by address.
 
 ## Install
+Please issue your Yahoo Application ID in advance. For instructions, please refer to the following URL.
+https://support.yahoo-net.jp/PccDeveloper/s/article/H000006131
+
 ```sh
-npm install -g @konaga/nearest-station
+$ npm install -g @konaga/nearest-station
+$ export YAHOO_APP_ID=#{Yahoo Application ID}
 ```
 
 ## Usage
