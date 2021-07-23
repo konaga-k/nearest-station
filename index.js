@@ -1,4 +1,4 @@
-#!/usr/bin/node
+#!/usr/bin/env node
 
 const NearestStationFinder = require('./lib/nearest-station-finder.js')
 
